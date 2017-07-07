@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[关于markdown语法的测试]]></title>
+    <url>%2F2017%2F07%2F03%2F%E5%85%B3%E4%BA%8Emarkdown%E8%AF%AD%E6%B3%95%E7%9A%84%E6%B5%8B%E8%AF%95%2F</url>
+    <content type="text"><![CDATA[这里是神奇的 markdown 测试1号标题二号标题三号标题四号标题五号标题 倾斜不适用于英文？abcd666？ 这个好像是引用？ 嵌套引用？ 101 222 点序号 点序号 加粗 12345678910//这里用来粘贴代码……就是没有高亮？我得找找#include&lt;stdio.h&gt;int num;int main()&#123; freopen(&quot;test.in&quot;,&quot;r&quot;,stdin); freopen(&quot;test.out&quot;,&quot;w&quot;,stdout); scanf(&quot;%d&quot;,&amp;n); printf(&quot;%d&quot;,n); return 0;&#125; 公式的渲染消耗大量的资源和空间，此外，可能会引起页面卡顿……行内公式：$$f(x_1,x_2,\ldots,x_n) = x_1^2 + x_2^2 + \cdots + x_n^2$$ 行间公式：$E=mc^2$ 表格测试，貌似都是左对齐 第一栏 第二栏 化学 吴晶老师讲课让人睡觉……nofucksay 数学 万胜老师一个半小时讲两道题 物理 涛哥是来淌汗的 生物 孙鹏飞老师讲课贼好 哦对了，还有华丽的分割线 [toc]没用？好多功能竟然都被屏蔽了 插播一首歌，但暂时不支持跨页浏览（全局） 超链接links test 这是一个有趣的链接 这个符号我最喜欢，炒鸡棒 下划线：Underline]]></content>
+      <categories>
+        <category>网络攻城lion</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2017%2F04%2F30%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <categories>
+        <category>网络攻城lion</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+</search>
