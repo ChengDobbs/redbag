@@ -9,6 +9,6 @@ Disallow: /tags/
 Disallow: /lib/
 Disallow: /about/
 
-Sitemap: https://jch26.win/sitemap.xml
+Sitemap: https://coder26.top/sitemap.xml
 
 Crawl-delay: 120
