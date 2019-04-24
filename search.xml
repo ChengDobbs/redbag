@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Support Anti-996 Project]]></title>
+    <url>%2F2019%2FSupport-Anti-996-Project%2F</url>
+    <content type="text"><![CDATA[ANTI-996 DAYDate: March 26th of each year. On March 26th, 2019, a Chinese programmer @996icu created a GitHub project 996.ICU. This project is about the 996-working mode in China. The project received more than 100,000 stars in just three days, and many Chinese programmers translated the project into multiple languages. We recommend the name “ANTI-996 DAY” on March 26th each year. https://github.com/996icu/996.ICU]]></content>
+      <categories>
+        <category>Social</category>
+      </categories>
+      <tags>
+        <tag>Tech</tag>
+        <tag>996</tag>
+        <tag>Social</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2015%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
