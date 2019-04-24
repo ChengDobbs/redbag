@@ -118,7 +118,7 @@
 <meta property="og:url" content="https://coder26.top/2017/book-review-201710/index.html">
 <meta property="og:site_name" content="Dream Chaser">
 <meta property="og:description" content="Book Review of _20,000 Leagues Under the Sea_  _20,000 Leagues Under the Sea_ is the second of the trilogy of Jules Verne (the first is the “Captain Grant’s daughter”, and the third is the “Mysterious">
-<meta property="og:updated_time" content="2019-04-24T14:41:36.837Z">
+<meta property="og:updated_time" content="2019-04-24T15:07:45.388Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="The journey to science and fantasy">
 <meta name="twitter:description" content="Book Review of _20,000 Leagues Under the Sea_  _20,000 Leagues Under the Sea_ is the second of the trilogy of Jules Verne (the first is the “Captain Grant’s daughter”, and the third is the “Mysterious">
@@ -561,6 +561,8 @@
           
   <div class="comments" id="comments">
     
+      <div id="gitalk-container"></div>
+    
   </div>
 
 
@@ -618,7 +620,7 @@
             
             <div class="site-state-item site-state-categories">
               <a href="/categories/index.html">
-                <span class="site-state-item-count">7</span>
+                <span class="site-state-item-count">6</span>
                 <span class="site-state-item-name">分類</span>
               </a>
             </div>
@@ -884,6 +886,23 @@
 
 
 
+
+
+  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <script src="/js/src/md5.min.js"></script>
+   <script type="text/javascript">
+        var gitalk = new Gitalk({
+          clientID: '7f27aba95f2731482a06',
+          clientSecret: '17f840c7f107ba193306419938e6c336683fffb8',
+          repo: 'chengdobbs.github.io',
+          owner: 'chengdobbs',
+          admin: ['reviewer'],
+          id: md5(location.pathname),
+          distractionFreeMode: 'true'
+        })
+        gitalk.render('gitalk-container')           
+       </script>
 
   
 
